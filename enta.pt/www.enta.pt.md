@@ -16,6 +16,13 @@
 
         https://github.com/JFRego/http-https-configs/blob/main/http-https%20apache.md
 
+
+
+- And was also installed a wazuh agent from wazuh documentation;
+
+        https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html
+
+
         
 
 
