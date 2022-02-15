@@ -17,3 +17,7 @@
         apt install -y xfce4 xfce4-goodies
         apt install -y xrdp chromium-browser filezilla thunderbird
         adduser xrdp ssl-cert
+        
+- And was also installed a wazuh agent from wazuh documentation;
+
+        https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html
