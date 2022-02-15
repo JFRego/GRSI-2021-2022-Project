@@ -4,15 +4,15 @@
 - Type - t2small
 - security group -      
 
-        –	sgr-0976375e5e987eb68	IPv4	All traffic	All	All	172.16.0.0/12	–
-	–	sgr-04b7138a65dd3428c	–	All traffic	All	All	sg-0b14f4accebd2d242 / default	–
-	–	sgr-0c84dc0f58aac77b7	IPv4	All traffic	All	All	192.168.0.0/16	–
-	–	sgr-018cf9332d49729c0	IPv4	All traffic	All	All	78.29.147.32/32	–
-	–	sgr-04f7a62a0169aaf2a	IPv4	All traffic	All	All	35.86.49.237/32	–
-	–	sgr-0174c79ce302d662b	IPv4	All traffic	All	All	85.244.38.230/32	–
-	–	sgr-01a54a4bebb7f892d	IPv4	All traffic	All	All	10.0.0.0/8	–
-	–	sgr-0b2c1f943e7559a1e	IPv4	All traffic	All	All	54.157.93.37/32	–
-	–	sgr-0ef7a3626bac3dedd	IPv4	All traffic	All	All	50.16.75.140/32	–
+        sgr-0976375e5e987eb68	IPv4	All traffic	All	All	172.16.0.0/12	–
+	sgr-04b7138a65dd3428c	–	All traffic	All	All	sg-0b14f4accebd2d242 / default	–
+	sgr-0c84dc0f58aac77b7	IPv4	All traffic	All	All	192.168.0.0/16	–
+	sgr-018cf9332d49729c0	IPv4	All traffic	All	All	78.29.147.32/32	–
+	sgr-04f7a62a0169aaf2a	IPv4	All traffic	All	All	35.86.49.237/32	–
+	sgr-0174c79ce302d662b	IPv4	All traffic	All	All	85.244.38.230/32	–
+	sgr-01a54a4bebb7f892d	IPv4	All traffic	All	All	10.0.0.0/8	–
+	sgr-0b2c1f943e7559a1e	IPv4	All traffic	All	All	54.157.93.37/32	–
+	sgr-0ef7a3626bac3dedd	IPv4	All traffic	All	All	50.16.75.140/32	–
 
 - eth0 subnet IP - 172.31.2.196/20
 - eth1 subnet IP - 172.31.96.0/24
