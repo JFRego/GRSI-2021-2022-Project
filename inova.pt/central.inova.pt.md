@@ -20,4 +20,7 @@
 
         https://github.com/JFRego/basic-mail-server-config/blob/main/Exim4%20%2B%20courier%20config.md
         
+- And was also installed a wazuh agent from wazuh documentation;
+
+        https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html        
 
