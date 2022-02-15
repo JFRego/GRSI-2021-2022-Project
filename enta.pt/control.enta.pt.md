@@ -2,7 +2,7 @@
 
 - Amazon Linux 2 os
 - Type - t2small
-- eth0 subnet IP - 172.31.2.196/20
+- eth0 subnet IP - 172.31.2.196/20 | 35.168.119.32
 - eth1 subnet IP - 172.31.96.0/24
 - eth2 subnet IP - 172.31.128.0/24
 
