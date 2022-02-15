@@ -2,7 +2,7 @@
 
 - Ubuntu OS
 - Type - t2small
-- eth0 subnet IP - 172.31.9.208/20
+- eth0 subnet IP - 172.31.9.208/20 | 35.86.49.237
 - eth1 subnet IP - 172.31.96.0/24
 - eth2 subnet IP - 172.31.128.0/24
 
