@@ -1,0 +1,14 @@
+#Instance details
+
+
+- Amazon Linux 2 os
+- Type - t2small
+- eth0 subnet IP - 172.31.128.11/24
+
+
+#Services installed
+
+- In this instance only the raid5 array was created by the following method;
+
+        https://github.com/JFRego/raid-luks-lvm-config/blob/main/raid%20luks%20lvm.md
+
