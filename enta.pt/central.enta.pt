@@ -12,3 +12,10 @@
 
         https://github.com/JFRego/raid-luks-lvm-config/blob/main/raid%20luks%20lvm.md
 
+
+- And was also installed a wazuh agent from wazuh documentation;
+
+        https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html
+
+
+
